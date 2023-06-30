@@ -72,7 +72,7 @@ sections:
         author: ""
         category: ""
         tag: ""
-        exclude_featured: false
+        exclude_featured: true
         exclude_future: false
         exclude_past: false
         publication_type: ""
@@ -82,8 +82,44 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      view: citation
       columns: '2'
+  - block: collection
+    content:
+      title: Other texts
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - talks
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
+    id: conferences
+    content:
+      title: Conferences
+      filters:
+        folders:
+          - conferences
+    design:
+      columns: '2'
+      view: compact
+
+
+
+
+
+
   - block: experience
     content:
       title: Experience
@@ -245,16 +281,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
