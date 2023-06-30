@@ -116,28 +116,6 @@ sections:
       view: compact
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   - block: accomplishments
     id: teaching
     content:
@@ -202,27 +180,65 @@ sections:
 #          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-#  - block: accomplishments
-#    content:
+  - block: accomplishments
+    id: other_activities
+    content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-#      title: 'Accomplish&shy;ments'
+      title: Other activities
 #      subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
-#      date_format: Jan 2006
+      date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-#      items:
-#        - certificate_url: https://www.coursera.org
-#          date_end: ''
-#          date_start: '2021-01-25'
-#          description: ''
-#          organization: Coursera
-#          organization_url: https://www.coursera.org
-#          title: Neural Networks and Deep Learning
+      items:
+        - date_end: '2023-01-06'
+          date_start: '2022-09-01'
+          description: ''
+          organization: University of Edinburgh
+          title: Organizer of the [**Algebra Seminar**](https://sites.google.com/view/hodge-seminars/)
 #          url: ''
+        - date_end: '2022-08-31'
+          date_start: '2021-09-01'
+          description: ''
+          organization: University of Edinburgh
+          title: Organizer of the [**Hodge Seminar**](https://sites.google.com/view/hodge-seminars/)
+#          url: ''
+        - date_end: '2023-01-06'
+          date_start: '2021-09-01'
+          description: ''
+          organization: University of Edinburgh
+          title: Postdoc representative, [*Equality, Diversity and Inclusion* committee](https://www.maths.ed.ac.uk/school-of-mathematics/about-us/equality-diversity-and-inclusion)
+          url: 'https://www.maths.ed.ac.uk/school-of-mathematics/about-us/equality-diversity-and-inclusion'
+        - date_end: '2019-08-31'
+          date_start: '2017-09-01'
+          description: ''
+          organization: Université Paris Diderot
+          title: Organizer of the *Rencontres Master-Doctorants*
+          description : Biannual meetings between graduate students and PhD students.
+#          url: 'https://www.maths.ed.ac.uk/school-of-mathematics/about-us/equality-diversity-and-inclusion'
+        - date_end: '2019-08-31'
+          date_start: '2017-09-01'
+          description: ''
+          organization: Université Paris Diderot
+          title: Member of the *Comité Parité*
+          url: 'https://www.imj-prg.fr/comite-parite/'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #        - certificate_url: https://www.edx.org
 #          date_end: ''
 #          date_start: '2021-01-01'
