@@ -9,7 +9,7 @@ appearance:
   theme_day: Forest
   theme_night: Forest
   font: minimal
-  font_size: L
+  font_size: l
 
 # SEO
 
@@ -35,7 +35,7 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: false
