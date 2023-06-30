@@ -103,16 +103,15 @@ sections:
           - talks
     design:
       columns: '2'
-      view: compact
-  - block: collection
+      view: list
+  - block: markdown
     id: conferences
     content:
       title: Conferences
-      filters:
-        folders:
-          - conferences
+      subtitle: List of conferences I attended
+      text: 
     design:
-      columns: '2'
+      columns: '1'
       view: compact
 
 
