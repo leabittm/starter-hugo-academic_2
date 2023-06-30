@@ -226,19 +226,6 @@ sections:
           title: Member of the *Comité Parité*
           url: 'https://www.imj-prg.fr/comite-parite/'
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #        - certificate_url: https://www.edx.org
 #          date_end: ''
 #          date_start: '2021-01-01'
@@ -255,8 +242,8 @@ sections:
 #          organization_url: https://www.datacamp.com
 #          title: 'Object-Oriented Programming in R'
 #          url: ''
-#    design:
-#      columns: '2'
+    design:
+     columns: '2'
 #  - block: collection
 #    id: posts
 #    content:
