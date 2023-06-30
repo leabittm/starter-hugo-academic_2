@@ -152,55 +152,42 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Tutor
-          company: University of Edinburgh
-          company_url: 'https://www.maths.ed.ac.uk/school-of-mathematics'
-#          company_logo: org-gc
-#          location: California
+          organization: University of Edinburgh
+          organization_url: 'https://www.maths.ed.ac.uk/school-of-mathematics'
           date_start: '2022-09-01'
           date_end: '2022-12-16'
           description: |2-
               **Honours Analysis** Worshops
         - title: Tutor
-          company: University of Edinburgh
-          company_url: 'https://www.maths.ed.ac.uk/school-of-mathematics'
-#          company_logo: org-gc
-#          location: California
+          organization: University of Edinburgh
+          organization_url: 'https://www.maths.ed.ac.uk/school-of-mathematics'
           date_start: '2022-01-20'
           date_end: '2022-04-08'
           description: |2-
               **Honours Algebra** - Skills Labs
         - title: Tutor
-          company: University of Edinburgh
-          company_url: 'https://www.maths.ed.ac.uk/school-of-mathematics'
-#          company_logo: org-gc
-#          location: California
+          organization: University of Edinburgh
+          organization_url: 'https://www.maths.ed.ac.uk/school-of-mathematics'
           date_start: '2021-09-01'
           date_end: '2021-12-15'
           description: |2-
               **Introduction to Linear Algebra** Workshops
         - title: Teaching Assistant
-          company: Université Paris Diderot
-          company_url: 'https://u-paris.fr/'
-#          company_logo: org-gc
-#          location: California
+          organization: Université Paris Diderot
+          organization_url: 'https://u-paris.fr/'
           date_start: '2017-09-01'
           date_end: '2018-08-31'
           description: |2-
               **Advanced Algebra and Analysis** Travaux Dirigés
         - title: Teaching Assistant
-          company: Université Paris Diderot
-          company_url: 'https://u-paris.fr/'
-#          company_logo: org-gc
-#          location: California
+          organization: Université Paris Diderot
+          organization_url: 'https://u-paris.fr/'
           date_start: '2016-09-01'
           date_end: '2017-08-31'
           description: |2-
               **Basic Algebra and Analysis** Travaux Dirigés
         - title: Oral examiner
-          company: Lycée Saint Louis
-#          company_url: 'https://u-paris.fr/'
-#          company_logo: org-gc
-#          location: California
+          organization: Lycée Saint Louis
           date_start: '2013-09-01'
           date_end: '2015-08-31'
           description: |2-
