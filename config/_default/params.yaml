@@ -8,7 +8,7 @@
 appearance:
   theme_day: Forest
   theme_night: Forest
-  font: minimal
+  font: Classic
   font_size: L
 
 # SEO
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: 'G-EQKXXKPYH8'
     baidu_tongji: ''
@@ -38,25 +38,25 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer
 
 footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+#  copyright:
+#    notice: '© {year} Me. This work is licensed under {license}'
+#    license:
+#      enable: false
+#      allow_derivatives: false
+#      share_alike: true
+#     allow_commercial: false
 
 # Localization
 
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  time_format: '15:04'
   address_format: en-us
 
 # Site features
