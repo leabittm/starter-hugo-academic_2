@@ -211,7 +211,7 @@ sections:
           description: ''
           organization: University of Edinburgh
           title: Postdoc representative, [*Equality, Diversity and Inclusion* committee](https://www.maths.ed.ac.uk/school-of-mathematics/about-us/equality-diversity-and-inclusion)
-          url: 'https://www.maths.ed.ac.uk/school-of-mathematics/about-us/equality-diversity-and-inclusion'
+#          url: 'https://www.maths.ed.ac.uk/school-of-mathematics/about-us/equality-diversity-and-inclusion'
         - date_end: '2019-08-31'
           date_start: '2017-09-01'
           description: ''
@@ -223,8 +223,8 @@ sections:
           date_start: '2017-09-01'
           description: ''
           organization: Université Paris Diderot
-          title: Member of the *Comité Parité*
-          url: 'https://www.imj-prg.fr/comite-parite/'
+          title: Member of the [*Comité Parité*](https://www.imj-prg.fr/comite-parite/)
+#          url: 'https://www.imj-prg.fr/comite-parite/'
 
 #        - certificate_url: https://www.edx.org
 #          date_end: ''
