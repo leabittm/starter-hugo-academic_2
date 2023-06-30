@@ -351,9 +351,9 @@ sections:
         street: James Clerk Maxwell Building
         city: Edinburgh
 #        region: CA
-        postcode: 'EH9 3FD,'
+        postcode: 'EH9 3FD'
         country: United Kingdom
-        country_code: UK
+#        country_code: UK
       directions: Office 5422
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
