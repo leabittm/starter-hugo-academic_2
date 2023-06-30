@@ -109,7 +109,9 @@ sections:
     content:
       title: Conferences
       subtitle: List of conferences I attended
-      text: 
+      text: |-
+          1. *[Algebraic Combinatorics in Representation Theory](https://conferences.cirm-math.fr/1490.html)*, CIRM, Luminy, August 2016
+
     design:
       columns: '1'
       view: compact
