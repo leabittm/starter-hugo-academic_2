@@ -1,12 +1,13 @@
 ---
-title: "Representations of the Yangian in Deligne's category $Rep(Gl_{t})$"
+title: "Infinite friezes of affine type $D$"
 authors:
+- Karin Baur
 - admin
-#- Robert Ford
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
-date: "2015-09-25"
+- Emily Gunawan
+- Gordana Todorov
+- Emine Yıldırım
+
+date: "2023-02-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,25 +17,27 @@ publishDate: "2019-07-16"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["7"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Master's Thesis"
+publication: "in preparation (draft available on request)"
 publication_short: ""
 
-abstract: 
+abstract: Triangulations of a twice punctured disk with at least two marked points on the boundary are associated to cluster categories of affine type $D$. Indecomposable objects in these categories can be arranged in three tubes using the Auslander-Reiten quiver, and the evaluation of the corresponding cluster variables give infinite friezes. We study these three friezes and their corresponding arcs on the surface and show that their three growth coefficients are equal.
+
+
 
 # Summary. An optional shortened abstract.
-summary: 
+# summary: 
 
-tags:
-#- Source Themes
-featured: true
+
+
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://www.normalesup.org/~lbittmann/files/Memoire.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -46,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'The Defense Jury'
   focal_point: ""
   preview_only: false
 
@@ -62,15 +65,10 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: 
+# slides: example
 ---
 
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /callout %}}
 
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
 
-#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
