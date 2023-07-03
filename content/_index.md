@@ -104,7 +104,8 @@ sections:
           - talks
     design:
       columns: '2'
-      view: list
+      view: compact
+      flip_alt_rows: true
   - block: markdown
     id: conferences
     content:
@@ -131,10 +132,12 @@ sections:
           18. *[New developments in representation theory arising from cluster algebras](https://www.newton.ac.uk/event/carw02/)*, INI, Cambridge, September 2021
           19. *[Enveloping Algebras and Geometric Representation Theory](https://www.mfo.de/occasion/2144/www_view)*, Oberwolfach, November 2021
           20. *[WINART3 workshop](http://women-in-ncalg-repthy.org/conferences/winart3-workshop/)*, Banff, April 2022 
-          21. *[Summer School: Representation theory and flag or quiver varieties](https://school2022.sciencesconf.org/)*, Paris, June 2022 
-          22. *[Geometric Reresentation Theory workshop](https://indico.ipmu.jp/event/409/overview)*, Kavli IPMU, Zoom, June-July 2022 
-          23. *[World Meeting for Women in Mathematics](https://2022.worldwomeninmaths.org/)*, Youtube, July 2022
-          24. *[Bases for cluster algebras](https://www.birs.ca/events/2022/5-day-workshops/22w5173?fbclid=IwAR0M7dSknWDPbW9eR_2EDSgr69QY3WWjrQ9AYij6ZEm1dcYlvsRKZN4gbgM)*, Oaxaca, September 2022 
+          21. *[Bridges between representation theory and algebraic geometry: Singularities, friezes and cluster categories](https://sites.google.com/view/singular-clusters)*, Leeds, May 2022 
+          22. *[Summer School: Representation theory and flag or quiver varieties](https://school2022.sciencesconf.org/)*, Paris, June 2022 
+          23. *[Geometric Reresentation Theory workshop](https://indico.ipmu.jp/event/409/overview)*, Kavli IPMU, Zoom, June-July 2022 
+          24. *[World Meeting for Women in Mathematics](https://2022.worldwomeninmaths.org/)*, Youtube, July 2022
+          25. *[Bases for cluster algebras](https://www.birs.ca/events/2022/5-day-workshops/22w5173?fbclid=IwAR0M7dSknWDPbW9eR_2EDSgr69QY3WWjrQ9AYij6ZEm1dcYlvsRKZN4gbgM)*, Oaxaca, September 2022 
+          26. *[The Geometry of Double Affine Hecke Algebras and Coulomb Branches](https://www.icms.org.uk/HeckeAlgebras)*, Edinburgh, March 2023 
     design:
       columns: '1'
       view: compact
