@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Advances in Mathematics"
-publication_short: "Adv. Math."
+publication_short: "Adv. Math"
 
 abstract: Analogously to the construction of Suzuki and Vazirani, we construct representations of the $GL_m$-type Double Affine Hecke Algebra at roots of unity. These representations are graded and the weight spaces for the $X$-variables are parametrized by the combinatorial objects we call doubly periodic tableaux. We show that our representations exhaust all graded $X$-semisimple representations, and the direct sum of all our representations is faithful. Analogously to the construction of Jordan and Vazirani of rectangular DAHA representations, we show that our representations can be interpreted in terms of ribbon fusion categories associated to $U_q(\mathfrak{gl}_N)$ at roots of unity. Combining the ribbon structure with faithfulness we deduce a conjecture of Morton and Samuelson about realization of DAHA as a skein algebra of the torus with base string modulo certain local relations. 
 
