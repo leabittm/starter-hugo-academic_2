@@ -104,7 +104,7 @@ sections:
           - talks
     design:
       columns: '2'
-      view: compact
+      view: citation
       flip_alt_rows: true
   - block: markdown
     id: conferences
