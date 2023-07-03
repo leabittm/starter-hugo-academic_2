@@ -1,5 +1,5 @@
 ---
-title: "On a determinant formula for some real regular representations "
+title: "On a determinant formula for some real regular representations"
 authors:
 - admin
 
