@@ -101,7 +101,7 @@ sections:
       count: 0
       filters:
         folders:
-          - talks
+          - event
     design:
       columns: '2'
       view: list
