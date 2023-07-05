@@ -1,7 +1,7 @@
 ﻿---
-title:  Simplicity of tensor product of quantum affine algebras representations
+subtitle:  Simplicity of tensor product of quantum affine algebras representations
 
-event: "Representation Theory and Automorphic Forms Seminar"
+title:  "Representation Theory and Automorphic Forms Seminar"
 
 event_url: https://mathematik.univie.ac.at/en/research/seminars/number-theory-seminar/
 

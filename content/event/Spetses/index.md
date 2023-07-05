@@ -1,7 +1,7 @@
 ﻿---
 subtitle: A Schur-Weyl duality between Double Affine Hecke Algebras and quantum groups
 
-title: "**Hecke algebras and applications** Conference"
+title: "Hecke algebras and applications Conference"
 
 event_url: https://indico.math.cnrs.fr/event/8713/
 

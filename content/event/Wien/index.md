@@ -1,6 +1,6 @@
 ﻿---
-title: Representations of quantum affine algebras via cluster algebras
-event: Number Theory Seminar
+subtitle: Representations of quantum affine algebras via cluster algebras
+title: Number Theory Seminar
 event_url: https://mathematik.univie.ac.at/forschung/seminare/number-theory-seminar/nachrichtenvolldarstellung-se/news/representations-of-quantum-affine-algebras-via-cluster-algebras/?no_cache=1&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=cd1ab8b726e102f5ace5fb43f5067e69
 
 location: Universität Wien

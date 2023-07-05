@@ -1,7 +1,7 @@
 ﻿---
-title: Representations of quantum affine algebras, l-fundamental and standard modules
+subtitle: Representations of quantum affine algebras, l-fundamental and standard modules
 
-event: Working group "Cluster algebras and quiver representations"
+title: "Working group : Cluster algebras and quiver representations"
 
 event_url: https://webusers.imj-prg.fr/~bernhard.keller/gdtcluster/
 

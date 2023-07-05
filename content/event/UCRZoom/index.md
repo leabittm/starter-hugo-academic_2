@@ -1,7 +1,7 @@
 ﻿---
-title: Quantum Grothendieck rings, towards simply laced types
+subtitle: Quantum Grothendieck rings, towards simply laced types
 
-event: Lie theory Seminar
+title: Lie theory Seminar
 
 event_url: https://sites.google.com/view/petersamuelson/lie-theory-seminar
 

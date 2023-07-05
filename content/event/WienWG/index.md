@@ -1,6 +1,6 @@
 ﻿---
-title: R-matrices and quantum groups
-event:  Seminar "Representation Theory and Automorphic Forms"
+subtitle: R-matrices and quantum groups
+title: "Seminar: Representation Theory and Automorphic Forms"
 event_url: https://mathematik.univie.ac.at/forschung/seminare/seminar-representation-theory-and-automorphic-forms/
 
 location: Universität Wien
