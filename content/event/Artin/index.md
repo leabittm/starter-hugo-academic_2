@@ -1,7 +1,7 @@
 ﻿---
-title: t-deformations of Grothendieck rings as quantum cluster algebras
+subtitle: t-deformations of Grothendieck rings as quantum cluster algebras
 
-event: ARTIN Workshop
+title: ARTIN Workshop
 
 event_url: https://www.nottingham.ac.uk/mathematics/events/workshops/artin-2020.aspx
 

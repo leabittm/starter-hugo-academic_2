@@ -1,7 +1,7 @@
 ﻿---
-title:  A Schur-Weyl duality between Double Affine Hecke Algebras and quantum groups
+subtitle:  A Schur-Weyl duality between Double Affine Hecke Algebras and quantum groups
 
-event: Séminaire d'Algèbre
+title: Séminaire d'Algèbre
 
 event_url: https://www.imj-prg.fr/gestion/evenement/affEvenement/1
 

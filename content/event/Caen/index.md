@@ -1,7 +1,7 @@
 ﻿---
-title: Catégorification monoïdale d'algèbre amassée et dualité de Schur-Weyl affine quantique
+subtitle: Catégorification monoïdale d'algèbre amassée et dualité de Schur-Weyl affine quantique
 
-event: Séminaire d'algèbre et de géométrie
+title: Séminaire d'algèbre et de géométrie
 
 event_url: https://www.lmno.cnrs.fr/sem/AG
 

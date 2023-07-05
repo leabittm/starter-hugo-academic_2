@@ -104,7 +104,7 @@ sections:
           - event
     design:
       columns: '2'
-      view: list
+      view: compact
       flip_alt_rows: true
   - block: markdown
     id: conferences

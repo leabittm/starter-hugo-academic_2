@@ -1,9 +1,9 @@
 ---
-title: t-deformations of Grothendieck rings as quantum cluster algebras
-event:  Lie algebras and their representations Session
+subtitle: t-deformations of Grothendieck rings as quantum cluster algebras
+title:  XXV Brazilian Algebra Meeting, Lie algebras and their representations Session
 event_url: http://www.ime.unicamp.br/~ea25/Lie.html
 
-location: XXV Brazilian Algebra Meeting, UNICAMP
+location: UNICAMP
 address:
 #  street: 450 Serra Mall
   city: Campinas

@@ -1,6 +1,6 @@
 ﻿---
-title: Quantum Grothendieck rings as quantum cluster algebras
-event: Cluster Algebras 2019, Poster of the Day
+subtitle: Quantum Grothendieck rings as quantum cluster algebras
+title: Cluster Algebras 2019, Poster of the Day
 event_url: https://sites.google.com/view/clusteralg19
 
 location: RIMS

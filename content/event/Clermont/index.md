@@ -1,7 +1,7 @@
 ﻿---
-title: Catégorification monoïdale d'algèbre amassée et dualité de Schur-Weyl affine quantique
+subtitle: Catégorification monoïdale d'algèbre amassée et dualité de Schur-Weyl affine quantique
 
-event: Séminaire GAAO
+title: Séminaire GAAO
 
 event_url: http://recherche.math.univ-bpclermont.fr/seminaires/gt_gaao.php
 

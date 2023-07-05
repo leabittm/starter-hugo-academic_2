@@ -1,6 +1,6 @@
 ---
-title: t-deformations of Grothendieck rings as quantum cluster algebras
-event: Conference Quantum Affine Algebras
+subtitle: t-deformations of Grothendieck rings as quantum cluster algebras
+title: Quantum Affine Algebras Conference
 event_url: https://quantumaffine2018.catholic.edu
 
 location: The Catholic University of America
