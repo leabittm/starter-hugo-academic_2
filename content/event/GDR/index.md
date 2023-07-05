@@ -1,7 +1,7 @@
 ﻿---
-title: Représentations des algèbres affines quantiques du point de vue des algèbres amassées quantiques
+subtitle: Représentations des algèbres affines quantiques du point de vue des algèbres amassées quantiques
 
-event: Colloque Tournant du GDR
+title: Colloque Tournant du GDR
 event_url: https://www.math.u-psud.fr/~plamondon/colloqueTournant/
 
 location: IHP

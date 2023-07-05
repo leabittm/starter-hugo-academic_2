@@ -1,6 +1,6 @@
 ﻿---
-title: Quantum Grothendieck Rings and Baxter relations
-event: Geometry and Representation Theory Conference
+subtitle: Quantum Grothendieck Rings and Baxter relations
+title: Geometry and Representation Theory Conference
 event_url: https://imsc.uni-graz.at/baur/ESI2017/
 
 location: Erwin Schrödinger Institute

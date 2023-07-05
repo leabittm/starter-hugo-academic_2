@@ -1,6 +1,6 @@
 ﻿---
-title: Quantum Grothendieck rings for quantum affine algebras
-event: Talks in mathematical physics Seminar
+subtitle: Quantum Grothendieck rings for quantum affine algebras
+title: Talks in mathematical physics Seminar
 event_url: https://math.ethz.ch/news-and-events/events/research-seminars/talks-in-mathematical-physics.html?s=hs18
 
 location: ETH Zürich
