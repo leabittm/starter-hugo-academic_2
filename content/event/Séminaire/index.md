@@ -1,6 +1,6 @@
 ﻿---
-title: Anneaux de Grothendieck quantiques et algèbres amassées quantiques
-event: Séminaire Groupes, Représentations et Géométrie
+subtitle: Anneaux de Grothendieck quantiques et algèbres amassées quantiques
+title: Séminaire Groupes, Représentations et Géométrie
 event_url: https://www.imj-prg.fr/grg/PHP/index.php?Sem=grg&Date=2018
 
 location: Université Paris Diderot

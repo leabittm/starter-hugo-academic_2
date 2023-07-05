@@ -1,6 +1,6 @@
 ﻿---
-title: Baxter relation, cluster algebras and quantum cluster algebras
-event: Tenure-track talk
+subtitle: Baxter relation, cluster algebras and quantum cluster algebras
+title: Tenure-track talk
 event_url: 
 
 location: University of California, Riverside

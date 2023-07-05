@@ -1,7 +1,7 @@
 ﻿---
-title:  Simplicity of tensor product of quantum affine algebras representations
+subtitle:  Simplicity of tensor product of quantum affine algebras representations
 
-event: "Bridges between representation theory and algebraic geometry: Singularities, friezes and cluster categories"
+title:  "Bridges between representation theory and algebraic geometry: Singularities, friezes and cluster categories Conference"
 
 event_url: https://sites.google.com/view/singular-clusters
 

@@ -1,6 +1,6 @@
 ---
-title: Asymptotics of standard modules of quantum affine algebras
-event:  Lie Theory Seminar
+subtitle: Asymptotics of standard modules of quantum affine algebras
+title: Lie Theory Seminar
 event_url: http://math.ucr.edu/~lietheory/
 
 location: University of California, Riverside

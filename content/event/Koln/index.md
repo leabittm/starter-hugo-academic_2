@@ -1,6 +1,6 @@
 ﻿---
-title: t-deformations of Grothendieck rings as quantum cluster algebras
-event:  Oberseminar Algebra
+subtitle: t-deformations of Grothendieck rings as quantum cluster algebras
+title: Oberseminar Algebra
 event_url: http://www.mi.uni-koeln.de/algebra/seminars/ws1819.html
 
 location: Universität zu Köln

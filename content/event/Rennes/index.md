@@ -1,8 +1,8 @@
 ﻿---
-title:  Dualité de Schur-Weyl entre groupes quantiques et DAHA
+subtitle:  Dualité de Schur-Weyl entre groupes quantiques et DAHA
 
 
-event: Séminaire de Géométrie arithmétique
+title: Séminaire de Géométrie arithmétique
 
 event_url: https://irmar.univ-rennes1.fr/seminars?f%5B0%5D=seminar_type%3A233
 

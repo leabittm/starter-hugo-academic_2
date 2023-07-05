@@ -1,7 +1,7 @@
 ﻿---
-title:  A Schur-Weyl duality between Double Affine Hecke Algebras and quantum groups
+subtitle:  A Schur-Weyl duality between Double Affine Hecke Algebras and quantum groups
 
-event: Enveloping Algebras and Geometric Representation Theory
+title:  Enveloping Algebras and Geometric Representation Theory Conference
 
 event_url: https://www.mfo.de/occasion/2144/www_view
 

@@ -2,7 +2,7 @@
 subtitle: Monoidal categorification of cluster algebra and quantum affine Schur-Weyl duality
 
 
-title: Conference *Quantum Groups and Cohomology Theory of Quiver and Flag Varieties*
+title: Quantum Groups and Cohomology Theory of Quiver and Flag Varieties Conference
 
 event_url: https://conferences.cirm-math.fr/2221.html
 

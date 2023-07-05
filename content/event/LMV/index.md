@@ -1,7 +1,7 @@
 ﻿---
-title: Des applications arithmétiques de la dualité de Schur-Weyl affine quantique
+subtitle: Des applications arithmétiques de la dualité de Schur-Weyl affine quantique
 
-event: "Séminaire AG"
+title: "Séminaire AG"
 
 event_url: https://lmv.math.cnrs.fr/evenements/categorie/seminaire-ag/
 

@@ -1,7 +1,7 @@
 ﻿---
-title:  TBA
+subtitle: A Schur-Weyl duality between Double Affine Hecke Algebras and quantum groups
 
-event: "Hecke algebras and applications"
+title: "**Hecke algebras and applications** Conference"
 
 event_url: https://indico.math.cnrs.fr/event/8713/
 
@@ -13,7 +13,7 @@ address:
   country: Greece
 
 #summary: An example talk using Academic's Markdown slides feature.
-abstract: 
+abstract: Schur-Weyl duality is often used to relate type $A$ Lie groups (or quantum groups) to symmetric groups (or Hecke algebras). In this talk, I will use ribbon calculus and skein modules to describe an instance of this Schur-Weyl duality between representations of the type $A$ quantum group at roots of unity and representations of the Double Affine Hecke Algebra. This is based on joint work with A. Chandler, A. Mellit and C. Novarini.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

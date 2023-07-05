@@ -1,7 +1,7 @@
 ﻿---
-title: Représentations des algèbres affines quantiques du point de vue des algèbres amassées quantiques
+subtitle: Représentations des algèbres affines quantiques du point de vue des algèbres amassées quantiques
 
-event: Séminaire du LaCIM
+title: Séminaire du LaCIM
 
 event_url: http://lacim.uqam.ca/event/lea-bittmann-2020/
 

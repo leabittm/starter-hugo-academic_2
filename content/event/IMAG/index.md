@@ -1,7 +1,7 @@
 ﻿---
-title:  TBA
+subtitle:  Des applications arithmétiques de la dualité de Schur-Weyl affine quantique
 
-event: "Séminaire AGATA"
+title:  Séminaire AGATA
 
 event_url: https://delcroix.perso.math.cnrs.fr/AGATA/
 
@@ -13,7 +13,7 @@ address:
   country: France
 
 #summary: An example talk using Academic's Markdown slides feature.
-abstract: 
+abstract: La dualité de Schur-Weyl affine quantique donne une équivalence de catégories entre certaines représentations des algèbres affines quantiques de type A et celles des algèbres de Hecke affines, et donc des représentations p-adiques de GLn. A travers cette équivalence, certains résultats peuvent être directement traduits entre les deux domaines. Plus en détails, quand l’algèbre affine est de bas rang, l’équivalence peut se rompre et la traduction doit être adaptée. Dans cet exposé, nous verrons plusieurs exemples de transcriptions de résultats sur les représentations p-adiques vers les représentations affines quantiques. Une des motivations provient des structures d’algèbres amassées sur ces dernières.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

@@ -1,7 +1,7 @@
 ﻿---
-title: Anneaux de Grothendieck quantiques, vers les types non simplement lacés
+subtitle: Anneaux de Grothendieck quantiques, vers les types non simplement lacés
 
-event: Quantum Algebra Days
+title: Quantum Algebra Days
 
 event_url: https://damienespadon.wixsite.com/dersympapp/quantum-algebra-days
 
