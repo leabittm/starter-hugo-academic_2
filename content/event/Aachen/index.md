@@ -1,6 +1,7 @@
 ﻿---
-title: Asymptotics of Standard Modules of Quantum Affine Algebras
-event: Aachen Research Seminar
+title: Aachen Research Seminar
+subtitle: Asymptotics of Standard Modules of Quantum Affine Algebras
+event: 
 event_url: https://www.mathematik.rwth-aachen.de/cms/~mxy/Mathematik/lidx/1/
 
 location: RWTH Aachen University
