@@ -18,25 +18,25 @@ role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Edinburg, Hodge Institute
-    url: https://hodge.maths.ed.ac.uk/tiki/Welcome
+  - name: IRMA, Université de Strasbourg
+    url: https://irma.math.unistra.fr/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
 
 # Interests to show in About widget
-interests:
-  - Representation Theory
-  - Quantum Groups, Quantum Affine Algebras, (Double) Affine Hecke Algebras, etc
-  - Combinatorics, (Quantum) Cluster Algebras, Macdonald Polynomials, etc
+Intérêts:
+  - Théorie des représentations
+  - Groupes Quantiques, Algèbres Affines Quantiques, Algèbres de Hecke (Doublement) Affines, etc
+  - Combinatoire, Algèbres Amassées (Quantiques), etc
 
 # Education to show in About widget
-education:
+Education:
   courses:
-    - course: PhD in Mathematics
+    - course: Doctorat de Mathématiques
       institution: Université Paris Diderot
       year: 2019
-    - course: MSc in Mathematics
+    - course: Master de Mathématiques
       institution: Université Paris Diderot
       year: 2015
 
@@ -78,8 +78,11 @@ email: ''
 highlight_name: false
 ---
 
-Since September 2021, I am a research associate at the [University of Edinburgh](https://hodge.maths.ed.ac.uk/tiki/Welcome). Before that, I was working at the [University of Vienna](https://mathematik.univie.ac.at/en/). 
+Je suis maîtresse de conférences à l'[Université de Strasbourg](https://www.unistra.fr/), au sein de l'[Institut de Recherche Mathématique Avancée ](https://irma.math.unistra.fr/).
 
-I completed my PhD at the [Université Paris Diderot](https://u-paris.fr/en/), under the supervision of [David Hernandez](https://webusers.imj-prg.fr/~david.hernandez/), in 2019.
+Avant cela, j'ai été post-doctorante à l'[Université d'Edimbourg](https://hodge.maths.ed.ac.uk/tiki/Welcome)
+et  à l'[Université de Vienne](https://mathematik.univie.ac.at/en/). 
+
+J'ai effectué ma thèse à l'[Université Paris Diderot](https://u-paris.fr/en/), under the supervision of [David Hernandez](https://webusers.imj-prg.fr/~david.hernandez/).
 
 {style="text-align: justify;"}
