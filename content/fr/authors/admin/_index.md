@@ -25,7 +25,7 @@ organizations:
 #bio: 
 
 # Interests to show in About widget
-interets:
+interests:
   - Théorie des représentations
   - Groupes Quantiques, Algèbres Affines Quantiques, Algèbres de Hecke (Doublement) Affines, etc
   - Combinatoire, Algèbres Amassées (Quantiques), etc
