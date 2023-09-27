@@ -14,12 +14,12 @@ last_name: Bittmann
 superuser: true
 
 # Role/position/tagline
-role: Research Associate
+role: Maitresse de Conférences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Edinburg, Hodge Institute
-    url: https://hodge.maths.ed.ac.uk/tiki/Welcome
+  - name: IRMA, Université de Strasbourg
+    url: https://irma.math.unistra.fr/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -77,9 +77,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I am a maitresse de conférences (lecturer) at the [University of Strasbourg](https://www.unistra.fr/), within the [Institut de Recherche Mathématique Avancée ](https://irma.math.unistra.fr/).
 
-Since September 2021, I am a research associate at the [University of Edinburgh](https://hodge.maths.ed.ac.uk/tiki/Welcome). Before that, I was working at the [University of Vienna](https://mathematik.univie.ac.at/en/). 
+Prior to that, I was a postdoc at the [University of Edinburgh](https://hodge.maths.ed.ac.uk/tiki/Welcome)
+and at the [University of Vienna](https://mathematik.univie.ac.at/en/). 
 
-I completed my PhD at the [Université Paris Diderot](https://u-paris.fr/en/), under the supervision of [David Hernandez](https://webusers.imj-prg.fr/~david.hernandez/), in 2019.
+I completed my PhD at the [Université Paris Diderot](https://u-paris.fr/en/), under the supervision of [David Hernandez](https://webusers.imj-prg.fr/~david.hernandez/).
 
 {style="text-align: justify;"}

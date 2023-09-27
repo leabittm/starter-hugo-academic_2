@@ -14,7 +14,7 @@ last_name: Bittmann
 superuser: true
 
 # Role/position/tagline
-role: Research Associate
+role: Maitresse de Conférences
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
 #bio: 
 
 # Interests to show in About widget
-Intérêts:
+Interets:
   - Théorie des représentations
   - Groupes Quantiques, Algèbres Affines Quantiques, Algèbres de Hecke (Doublement) Affines, etc
   - Combinatoire, Algèbres Amassées (Quantiques), etc
