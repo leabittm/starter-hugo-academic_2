@@ -78,10 +78,7 @@ email: ''
 highlight_name: false
 ---
 I am a maitresse de conférences (lecturer) at the [University of Strasbourg](https://www.unistra.fr/), within the [Institut de Recherche Mathématique Avancée ](https://irma.math.unistra.fr/).
-
 Prior to that, I was a postdoc at the [University of Edinburgh](https://hodge.maths.ed.ac.uk/tiki/Welcome)
-and at the [University of Vienna](https://mathematik.univie.ac.at/en/). 
-
-I completed my PhD at the [Université Paris Diderot](https://u-paris.fr/en/), under the supervision of [David Hernandez](https://webusers.imj-prg.fr/~david.hernandez/).
+and at the [University of Vienna](https://mathematik.univie.ac.at/en/). I completed my PhD at the [Université Paris Diderot](https://u-paris.fr/en/), under the supervision of [David Hernandez](https://webusers.imj-prg.fr/~david.hernandez/).
 
 {style="text-align: justify;"}
