@@ -19,7 +19,7 @@ publishDate: "2019-07-16"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Master's Thesis"
+publication: "Memoire de master"
 publication_short: ""
 
 abstract: 
@@ -65,12 +65,4 @@ projects: []
 slides: 
 ---
 
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /callout %}}
 
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
-
-#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
