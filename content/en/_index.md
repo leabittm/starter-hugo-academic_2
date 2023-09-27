@@ -138,6 +138,7 @@ sections:
           24. *[World Meeting for Women in Mathematics](https://2022.worldwomeninmaths.org/)*, Youtube, July 2022
           25. *[Bases for cluster algebras](https://www.birs.ca/events/2022/5-day-workshops/22w5173?fbclid=IwAR0M7dSknWDPbW9eR_2EDSgr69QY3WWjrQ9AYij6ZEm1dcYlvsRKZN4gbgM)*, Oaxaca, September 2022 
           26. *[The Geometry of Double Affine Hecke Algebras and Coulomb Branches](https://www.icms.org.uk/HeckeAlgebras)*, Edinburgh, March 2023 
+          27. *[Hecke Algebras and applications](https://indico.math.cnrs.fr/event/8713/)*, Spetses, July 2023 
     design:
       columns: '1'
       view: compact
@@ -371,17 +372,17 @@ sections:
 #      text: |-
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
 #      # Contact (add or remove contact options as necessary)
-      email: lea.bittmann@ed.ac.uk
+      email: lea.bittmann@math.unistra.fr
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
       address:
-        street: James Clerk Maxwell Building
-        city: Edinburgh
+        street: Institut de Recherche Mathématique Avancée, 7 rue René Descartes
+        city: Strasbourg
 #        region: CA
-        postcode: 'EH9 3FD'
-        country: United Kingdom
+        postcode: '67000'
+        country: France
 #        country_code: UK
-      directions: Office 5422
+      directions: Office 218
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
