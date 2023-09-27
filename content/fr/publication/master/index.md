@@ -19,7 +19,7 @@ publishDate: "2019-07-16"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Memoire de master"
+publication: "Mémoire de master"
 publication_short: ""
 
 abstract: 
