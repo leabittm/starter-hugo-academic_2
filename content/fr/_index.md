@@ -38,7 +38,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Biographie
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 #  - block: features
@@ -86,7 +86,7 @@ sections:
       columns: '2'
   - block: collection
     content:
-      title: Other texts
+      title: Autres textes
       filters:
         folders:
           - publication
@@ -97,7 +97,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Exposés récents ou  à venir
       count: 0
       filters:
         folders:
@@ -110,7 +110,7 @@ sections:
     id: conferences
     content:
       title: Conferences
-      subtitle: List of conferences I attended
+      subtitle: Liste des conférences où vous avez pu me croiser
       text: |-
           1. *[Algebraic Combinatorics in Representation Theory](https://conferences.cirm-math.fr/1490.html)*, CIRM, Luminy, August 2016
           2. *[Geometry and Representation Theory](https://imsc.uni-graz.at/baur/ESI2017/)*, ESI, Vienna, January 2017
@@ -138,6 +138,7 @@ sections:
           24. *[World Meeting for Women in Mathematics](https://2022.worldwomeninmaths.org/)*, Youtube, July 2022
           25. *[Bases for cluster algebras](https://www.birs.ca/events/2022/5-day-workshops/22w5173?fbclid=IwAR0M7dSknWDPbW9eR_2EDSgr69QY3WWjrQ9AYij6ZEm1dcYlvsRKZN4gbgM)*, Oaxaca, September 2022 
           26. *[The Geometry of Double Affine Hecke Algebras and Coulomb Branches](https://www.icms.org.uk/HeckeAlgebras)*, Edinburgh, March 2023 
+          27. *[Hecke Algebras and applications](https://indico.math.cnrs.fr/event/8713/)*, Spetses, July 2023 
     design:
       columns: '1'
       view: compact
@@ -146,7 +147,7 @@ sections:
   - block: accomplishments
     id: teaching
     content:
-      title: Teaching
+      title: Enseignement
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -177,26 +178,26 @@ sections:
           date_end: '2021-12-15'
           description: |2-
               **Introduction to Linear Algebra** Workshops
-        - title: Teaching Assistant
+        - title: Monitrice
           organization: Université Paris Diderot
           organization_url: 'https://u-paris.fr/'
           date_start: '2017-09-01'
           date_end: '2018-08-31'
           description: |2-
-              **Advanced Algebra and Analysis** Travaux Dirigés
-        - title: Teaching Assistant
+              Travaux Dirigés **Algèbre et Analyse avancées** 
+        - title: Monitrice
           organization: Université Paris Diderot
           organization_url: 'https://u-paris.fr/'
           date_start: '2016-09-01'
           date_end: '2017-08-31'
           description: |2-
-              **Basic Algebra and Analysis** Travaux Dirigés
-        - title: Oral examiner
+              Travaux Dirigés **Algèbre et Analyse élementaires**
+        - title: Colleuse
           organization: Lycée Saint Louis
           date_start: '2013-09-01'
           date_end: '2015-08-31'
           description: |2-
-              Weekly oral exams (**colles**) for 1st year students preparing for engineer school.
+              Colles en première années de CPGE
 #        - title: Professor of Semiconductor Physics
 #          company: University X
 #          company_url: ''
@@ -211,7 +212,7 @@ sections:
     id: other_activities
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: Other activities
+      title: Autres activités
 #      subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -225,32 +226,32 @@ sections:
           date_start: '2022-09-01'
           description: ''
           organization: University of Edinburgh
-          title: Organizer of the [**Algebra Seminar**](https://sites.google.com/view/hodge-seminars/)
+          title: Organisatrice du [**Algebra Seminar**](https://sites.google.com/view/hodge-seminars/)
 #          url: ''
         - date_end: '2022-08-31'
           date_start: '2021-09-01'
           description: ''
           organization: University of Edinburgh
-          title: Organizer of the [**Hodge Seminar**](https://sites.google.com/view/hodge-seminars/)
+          title: Organisatrice du [**Hodge Seminar**](https://sites.google.com/view/hodge-seminars/)
 #          url: ''
         - date_end: '2023-01-06'
           date_start: '2021-09-01'
           description: ''
           organization: University of Edinburgh
-          title: Postdoc representative, [*Equality, Diversity and Inclusion* committee](https://www.maths.ed.ac.uk/school-of-mathematics/about-us/equality-diversity-and-inclusion)
+          title: Réprésentante des postdocs auprès du [*Equality, Diversity and Inclusion* committee](https://www.maths.ed.ac.uk/school-of-mathematics/about-us/equality-diversity-and-inclusion)
 #          url: 'https://www.maths.ed.ac.uk/school-of-mathematics/about-us/equality-diversity-and-inclusion'
         - date_end: '2019-08-31'
           date_start: '2017-09-01'
           description: ''
           organization: Université Paris Diderot
-          title: Organizer of the *Rencontres Master-Doctorants*
-          description : Biannual meetings between graduate students and PhD students.
+          title: Organisatrice des *Rencontres Master-Doctorants*
+          description : Rencontres biannuelles entre etudiants de master et doctorants
 #          url: 'https://www.maths.ed.ac.uk/school-of-mathematics/about-us/equality-diversity-and-inclusion'
         - date_end: '2019-08-31'
           date_start: '2017-09-01'
           description: ''
           organization: Université Paris Diderot
-          title: Member of the [*Comité Parité*](https://www.imj-prg.fr/comite-parite/)
+          title: Membre du [*Comité Parité*](https://www.imj-prg.fr/comite-parite/)
 #          url: 'https://www.imj-prg.fr/comite-parite/'
 
 #        - certificate_url: https://www.edx.org
@@ -371,17 +372,18 @@ sections:
 #      text: |-
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
 #      # Contact (add or remove contact options as necessary)
-      email: lea.bittmann@ed.ac.uk
+      email: lea.bittmann@math.unistra.fr
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
       address:
-        street: James Clerk Maxwell Building
-        city: Edinburgh
+        street:  IRMA, Université de Strasbourg, 
+                 7 rue René Descartes
+        city: Strasbourg
 #        region: CA
-        postcode: 'EH9 3FD'
-        country: United Kingdom
+        postcode: '67000'
+        country: France
 #        country_code: UK
-      directions: Office 5422
+      directions: Bureau 218
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'

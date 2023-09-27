@@ -14,7 +14,7 @@ last_name: Bittmann
 superuser: true
 
 # Role/position/tagline
-role: Research Associate
+role: Maitresse de Conférences
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
 #bio: 
 
 # Interests to show in About widget
-Intérêts:
+interests:
   - Théorie des représentations
   - Groupes Quantiques, Algèbres Affines Quantiques, Algèbres de Hecke (Doublement) Affines, etc
   - Combinatoire, Algèbres Amassées (Quantiques), etc
@@ -79,10 +79,7 @@ highlight_name: false
 ---
 
 Je suis maîtresse de conférences à l'[Université de Strasbourg](https://www.unistra.fr/), au sein de l'[Institut de Recherche Mathématique Avancée ](https://irma.math.unistra.fr/).
-
 Avant cela, j'ai été post-doctorante à l'[Université d'Edimbourg](https://hodge.maths.ed.ac.uk/tiki/Welcome)
-et  à l'[Université de Vienne](https://mathematik.univie.ac.at/en/). 
-
-J'ai effectué ma thèse à l'[Université Paris Diderot](https://u-paris.fr/en/), under the supervision of [David Hernandez](https://webusers.imj-prg.fr/~david.hernandez/).
+et  à l'[Université de Vienne](https://mathematik.univie.ac.at/en/). J'ai effectué ma thèse à l'[Université Paris Diderot](https://u-paris.fr/en/), sous la direction de [David Hernandez](https://webusers.imj-prg.fr/~david.hernandez/).
 
 {style="text-align: justify;"}
