@@ -376,7 +376,8 @@ sections:
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
       address:
-        street:  Institut de Recherche Mathématique Avancée, Université de Strasbourg, 7 rue René Descartes
+        street:  Institut de Recherche Mathématique Avancée, Université de Strasbourg, 
+                 7 rue René Descartes
         city: Strasbourg
 #        region: CA
         postcode: '67000'
