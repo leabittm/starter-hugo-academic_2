@@ -80,6 +80,6 @@ highlight_name: false
 
 Je suis maîtresse de conférences à l'[Université de Strasbourg](https://www.unistra.fr/), au sein de l'[Institut de Recherche Mathématique Avancée ](https://irma.math.unistra.fr/).
 Avant cela, j'ai été post-doctorante à l'[Université d'Edimbourg](https://hodge.maths.ed.ac.uk/tiki/Welcome)
-et  à l'[Université de Vienne](https://mathematik.univie.ac.at/en/). J'ai effectué ma thèse à l'[Université Paris Diderot](https://u-paris.fr/en/), under the supervision of [David Hernandez](https://webusers.imj-prg.fr/~david.hernandez/).
+et  à l'[Université de Vienne](https://mathematik.univie.ac.at/en/). J'ai effectué ma thèse à l'[Université Paris Diderot](https://u-paris.fr/en/), sous la direction de [David Hernandez](https://webusers.imj-prg.fr/~david.hernandez/).
 
 {style="text-align: justify;"}
