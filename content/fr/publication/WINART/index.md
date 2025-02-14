@@ -7,11 +7,11 @@ authors:
 - Gordana Todorov
 - Emine Yıldırım
 
-date: "2023-02-01"
+date: "2024-07-15"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-07-16"
+publishDate: "2019-07-15"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,11 +20,10 @@ publishDate: "2019-07-16"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "in preparation (draft available on request)"
+publication: "arXiv preprint"
 publication_short: ""
 
-abstract: Triangulations of a twice punctured disk with at least two marked points on the boundary are associated to cluster categories of affine type $D$. Indecomposable objects in these categories can be arranged in three tubes using the Auslander-Reiten quiver, and the evaluation of the corresponding cluster variables give infinite friezes. We study these three friezes and their corresponding arcs on the surface and show that their three growth coefficients are equal.
-
+abstract: In this article, we study infinite friezes arising from cluster categories of affine type D and determine the growth coefficients for these friezes. We prove that for each affine type D, the friezes given by the tubes all have the same growth behaviour.
 
 
 # Summary. An optional shortened abstract.
@@ -37,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://arxiv.org/pdf/2407.11232
 url_code: ''
 url_dataset: ''
 url_poster: ''
